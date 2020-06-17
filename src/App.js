@@ -93,7 +93,11 @@ export default class App extends Component {
         <div className="row">
           <div className="col s6 m3 l3">
             <label className="labelInputSalLiquido">Salário Liquido:</label>
-            <input type="text" value={`R$ ${salarioLiquido}`} readOnly />
+            <input
+              type="text"
+              value={`R$ ${salarioLiquido} (${barSalario}%)`}
+              readOnly
+            />
           </div>
         </div>
         <div
