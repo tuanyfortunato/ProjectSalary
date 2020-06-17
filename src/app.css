@@ -1,0 +1,28 @@
+.labelInput {
+  font-size: 16px;
+  float: left;
+}
+
+.labelInputBlack {
+  font-size: 16px;
+  float: left;
+  color: black;
+}
+
+.labelInputOrange {
+  font-size: 16px;
+  float: left;
+  color: darkorange;
+}
+
+.labelInputRed {
+  font-size: 16px;
+  float: left;
+  color: darkred;
+}
+
+.labelInputSalLiquido {
+  font-size: 16px;
+  float: left;
+  color: darkcyan;
+}
